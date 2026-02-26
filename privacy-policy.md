@@ -3,8 +3,8 @@ Privacy Policy
 This service sends SMS notifications to the account owner when a Gmail message containing “video call” in the subject line is received.
 
 Information Collected:
-The sender’s own email metadata (subject line only)
-The account owner’s mobile phone number
+The sender’s own email metadata (subject line only).
+The account owner’s mobile phone number.
 
 How Information Is Used:
 To generate a one-time SMS notification alert.
