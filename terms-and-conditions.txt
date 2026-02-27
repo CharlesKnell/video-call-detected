@@ -10,7 +10,7 @@ Message Frequency:
 Message frequency varies. Messages are sent only when a qualifying email is received.
 
 Cost:
-Message and data rates may apply depending on your mobile carrier plan.
+Message and data rates may apply depending on the mobile carrier plan.
 
 Opt-In:
 The account owner opts in by configuring and enabling the notification script to send SMS messages to his own mobile number.
