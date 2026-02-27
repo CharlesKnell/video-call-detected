@@ -13,11 +13,11 @@ Cost:
 Message and data rates may apply depending on your mobile carrier plan.
 
 Opt-In:
-The account owner opts in by configuring and enabling the notification script to send SMS messages to their own mobile number.
+The account owner opts in by configuring and enabling the notification script to send SMS messages to his own mobile number.
 
 Opt-Out:
-The account owner may opt out at any time by replying STOP to any message. After opting out, no further messages will be sent 
-unless the service is re-enabled.
+The account owner may opt out at any time by by configuring and enabling the notification script. After opting out, no 
+further messages will be sent unless the service is re-enabled.
 
 Support:
 For assistance, reply HELP or contact: charles1283@gmail.com
