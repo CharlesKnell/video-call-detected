@@ -1,5 +1,5 @@
 Terms and Conditions
-
+--------------------
 This service provides SMS notifications to the account owner when a Gmail message containing “video call” in the subject line is received.
 
 Program Description:
