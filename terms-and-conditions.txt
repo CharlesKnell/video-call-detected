@@ -1,0 +1,24 @@
+Terms and Conditions
+
+This service provides SMS notifications to the account owner when a Gmail message containing “video call” in the subject line is received.
+
+Program Description:
+This is a personal, one-to-one notification service used solely by the account owner.
+
+Message Frequency:
+Message frequency varies. Messages are sent only when a qualifying email is received.
+
+Cost:
+Message and data rates may apply depending on your mobile carrier plan.
+
+Opt-In:
+The account owner opts in by configuring and enabling the notification script to send SMS messages to their own mobile number.
+
+Opt-Out:
+You may opt out at any time by replying STOP to any message. After opting out, no further messages will be sent unless the service is re-enabled.
+
+Support:
+For assistance, reply HELP or contact: charles1283@gmail.com
+
+Data Use:
+No information is sold or shared with third parties. 
